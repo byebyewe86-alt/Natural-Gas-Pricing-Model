@@ -52,5 +52,5 @@ def get_price(date):
         return "Date out of range"
 
 # Example usage
-print("Past:", get_price('2023-01-01'))
-print("Future:", get_price('2025-01-01'))
+#print("Past:", get_price('2023-01-01'))
+#print("Future:", get_price('2025-01-01'))
